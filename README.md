@@ -2,8 +2,7 @@
 This a very simple and lightweight library for left swipe menu in iOS. 
 Requirements
 ================
-++ iOS Version 7.0+
-++ Xcode 7.0 Above
+++ iOS Version 7.0+,  Xcode 7.0 Above, Objective C
 
 Usage
 ================
